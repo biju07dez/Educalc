@@ -1,0 +1,7 @@
+{
+  "name": "EduCalc",
+  "description": "Institutional grade academic performance tracker and AI-powered GPA analyzer.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
